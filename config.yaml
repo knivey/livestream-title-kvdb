@@ -1,0 +1,4 @@
+listen : ":3333"
+keys: [
+        "example"
+]
